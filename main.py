@@ -1,3 +1,8 @@
+import my_lib
 a = 7
 
-print(a)
+if a > 10:
+    print(a)
+else:
+    print(-a)
+print(my_lib.B)
