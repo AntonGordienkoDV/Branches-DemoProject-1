@@ -6,4 +6,6 @@ if a > 10:
 else:
     print(-a + my_lib.C)
 print(my_lib.B)
+
 print('Hello, Anton!')
+print('Hello, World!')
